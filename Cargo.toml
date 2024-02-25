@@ -2,7 +2,7 @@
 name = "observrs"
 version = "0.0.1"
 edition = "2021"
-desription = "Application designed for fast synthetic monitoring with global deployment capabilities with a comprehensive approach"
+description = "Application designed for fast synthetic monitoring with global deployment capabilities with a comprehensive approach"
 homepage = "https://observrs.com"
 repository = "https://github.com/wiggels/observrs"
 
